@@ -101,31 +101,3 @@ git地址：<a href="https://git.oschina.net/wangzhixuan/spring-shiro-training.g
 <img src="http://ww2.sinaimg.cn/small/907f4c96jw1f3sjdhn1dcj208w0aiq3d.jpg" alt="微信" />
 <img src="http://ww3.sinaimg.cn/small/907f4c96jw1f3sjdhkn0rj20by0byq33.jpg" alt="支付宝" />
 </p>
-
-## 捐助记录
-`silent`  5元
-
-`truetxw` 5元
-
-`福地` 10元
-
-`AfenG` 10元
-
-## 更新记录
-> 2017-01-15 v1.3.0 升级到mybatis-plus 2.0.1，添加页面生成！
-> 老版本请查看：[v1.2.0](http://git.oschina.net/wangzhixuan/spring-shiro-training/tree/v1.2.0/)
-
-> 2016-12-20 v1.2.0 tab加载修改ajax或者iframe，页面默认采用ajax加载！
-> 老版本请查看：[v1.1.1](http://git.oschina.net/wangzhixuan/spring-shiro-training/tree/v1.1.1/)
-
-> 2016-12-20 v1.1.1 修改若干`bug`，菜单改为无限级，cache改为spring-cache，shiro添加密码错误次数限制，密码加密改为shiro处理。
-
-> 2016-10-11 v1.1.0 采用`mybatis-plus`简化数据库，去除主从数据库，老版本升级需要执行`database/update_xxxx.sql`。
-
-> 2016-10-01 v1.0.0 升级Spring版本更改log为Log4j2。
-
-`注`: `v1.0.0`等老版源码请见Git Tag。
-
-## License
-
-( The MIT License )
